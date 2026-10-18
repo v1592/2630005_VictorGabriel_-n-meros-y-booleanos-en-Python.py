@@ -3,7 +3,6 @@
 # =============================================================================
 # Name:      VICTOR GABRIEL HERNANDEZ LUGO
 # Student ID: 263005
-# Group:     ______ (write your group here)
 # Topic:     Numeric types (int, float) and booleans in Python
 # GitHub:    https://github.com/v1592/2630005_VictorGabriel_strings.py
 # =============================================================================
